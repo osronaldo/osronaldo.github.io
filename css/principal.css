@@ -117,6 +117,13 @@ header {
 
 /* container-cover */
 
+h2 {
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+    font-size: 5rem;
+}
+
 
 /* buscador de palabras al contenido*/
 
