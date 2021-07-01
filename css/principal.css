@@ -304,6 +304,29 @@ footer .redes-footer .fa-instagram:hover {
 }
 
 
+/*certifiaicones*/
+
+.container-certificaciones {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.certificado {
+    width: 55%;
+    padding: .5rem;
+}
+
+.certificado img {
+    width: 100%;
+}
+
+
+/* img {
+    width: 100%;
+} */
+
+
 /* responsive dispositivos moviles */
 
 @media screen and (max-width:1220px) {
