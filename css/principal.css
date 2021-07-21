@@ -220,21 +220,21 @@ h2 {
     margin: auto;
 }
 
-.container-footer footer .logo-footer {
+.container-footer .logo-footer {
     text-align: center;
 }
 
-.container-footer footer .logo-footer img {
+.container-footer .logo-footer img {
     text-align: center;
 }
 
-.container-footer footer .redes-footer {
+.container-footer .redes-footer {
     display: flex;
     justify-content: center;
     margin-top: 20px;
 }
 
-.container-footer footer .redes-footer .icon-redes-footer {
+.container-footer .redes-footer .icon-redes-footer {
     font-size: 20px;
     margin: 20px;
     background-color: #efefef;
@@ -274,17 +274,17 @@ h2 {
     border-color: rgba(0, 0, 0, 0.1);
 }
 
-footer .redes-footer .fa-facebook-f:hover {
+.redes-footer .fa-facebook-f:hover {
     background: blue;
     color: white;
 }
 
-footer .redes-footer .fa-linkedin:hover {
+.redes-footer .fa-linkedin:hover {
     background: #0072B1;
     color: white;
 }
 
-footer .redes-footer .fa-instagram:hover {
+.redes-footer .fa-instagram:hover {
     background: linear-gradient(to top right, #fcde30, #e9712a, #d2313b, #ae4198, #7540a1, #5443ab);
     color: white;
 }
@@ -319,6 +319,15 @@ footer .redes-footer .fa-instagram:hover {
 
 .certificado img {
     width: 100%;
+}
+
+.bigText {
+    font-size: 2.5rem;
+    font-style: italic;
+}
+
+.aux-redes {
+    background-color: #f6f6f6;
 }
 
 
